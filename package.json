@@ -1,0 +1,17 @@
+{
+  "name": "p5-starter",
+  "description": "A simple starter template with p5 + Vite + TypeScript for quick starting my creative coding projects!",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.7.6",
+    "typescript": "^5.5.3",
+    "vite": "^5.4.1"
+  }
+}
