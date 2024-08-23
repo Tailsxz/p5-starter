@@ -10,7 +10,7 @@ Feel free to clone and use it as-is!
 
 ### Installation
 ```
-git clone https://github.com/Tailsxz/p5-starter-template.git
+git clone https://github.com/Tailsxz/p5-starter.git
 
 cd p5-starter-template
 
