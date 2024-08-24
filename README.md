@@ -36,4 +36,4 @@ To build for production, run
 
 The code in this project is licensed under the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](LICENSE).
 
-Please note that this project includes third-party dependencies, such as TypeScript and p5.js, which are licensed under their own respective licenses. Users of this project must comply with these licenses as well.
+Please note that this project includes third-party dependencies, such as Vite, TypeScript and p5.js, which are licensed under their own respective licenses. Users of this project must comply with these licenses as well.
