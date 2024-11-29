@@ -5,7 +5,7 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
   background("#0FF0AADD");
   textAlign(CENTER);
-  textFont("Segoe UI");
+  textFont("system-ui");
   textStyle(BOLD);
   textSize(48);
   text("Hey! 😎", windowWidth / 2, windowHeight / 2);
