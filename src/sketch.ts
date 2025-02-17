@@ -1,6 +1,8 @@
 /// <reference path="../global.d.ts"/>;
 import "./style.css";
 
+function preload() {}
+
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background("#0FF0AADD");
@@ -13,14 +15,11 @@ function setup() {
 
 function draw() {}
 
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-}
-
+function windowResized() {}
 function mousePressed() {}
-
 function keyPressed() {}
 
+window.preload = preload;
 window.setup = setup;
 window.draw = draw;
 window.mousePressed = mousePressed;

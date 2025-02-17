@@ -3,6 +3,7 @@ import module = require("p5");
 
 declare global {
   interface Window {
+    preload: Function;
     setup: Function;
     draw: Function;
   }
